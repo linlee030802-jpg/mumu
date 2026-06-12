@@ -1,10 +1,28 @@
 import { Composition } from "remotion";
 import { HelloEffect } from "./HelloEffect";
 import { JensenHuang } from "./JensenHuang";
+import { FinanceShowcase } from "./finance/FinanceShowcase";
+import { FinanceFull } from "./finance/FinanceFull";
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="FinanceFull"
+        component={FinanceFull}
+        durationInFrames={11107}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+      <Composition
+        id="FinanceShowcase"
+        component={FinanceShowcase}
+        durationInFrames={780}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
       <Composition
         id="JensenHuang"
         component={JensenHuang}

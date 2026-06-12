@@ -1,0 +1,6 @@
+gold_bars|skill_b3537b70-284d-4c8d-ba75-1becd25b4cb5|skill_639256c1-2c57-4b02-ae13-221dd1922f49
+ai_bubble|skill_6b8493ca-d09e-4dbb-acf1-5ee5589cd4a4|skill_85084e6b-1d5c-4a7d-9cb7-146a69a430b4
+person_anxious|skill_504ee48e-914d-42ee-a915-f8680271ec46|skill_b02d185c-ee74-4def-998d-6a62088e9370
+debt_mountain|skill_4614c6d5-e068-4a1c-b115-6a2221411648|skill_092b44c0-11f0-41b7-96e6-8ec65dfd9db2
+camel_straw|skill_fd69dc7d-7398-452f-8d9d-8c3476c27038|skill_b8d7e1a6-ac55-47f1-a09b-b84fede58482
+tech_icons|skill_6db7fce9-7019-43cd-8305-22b34c0a15ec|skill_a5da1e22-f53c-478d-b7ee-07adcda7722d
