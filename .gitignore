@@ -1,0 +1,17 @@
+# 依赖（体积大，可由 package-lock 还原）
+node_modules/
+
+# 构建/渲染产物
+remotion-app/out/
+out/
+dist/
+
+# 系统/编辑器
+.DS_Store
+*.log
+
+# 密钥与本地配置（防泄露）
+config.env
+*.key
+.env
+.env.local
