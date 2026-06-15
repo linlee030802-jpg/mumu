@@ -27,3 +27,9 @@ projects/**/*.mp3
 projects/**/*.mp4
 projects/**/*.wav
 projects/**/*.m4a
+
+# 小云雀/配音临时调试日志（含 thread_id 等临时数据，无保留价值）
+projects/**/poll/
+projects/**/submit_logs/
+projects/**/submit_logs2/
+projects/**/log*.txt

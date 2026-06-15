@@ -1,0 +1,9 @@
+trader1.mp4|trader looking at screen stressed|pexels7578620|1080x2048|35s
+trader2.mp4|trader looking at screen stressed|pexels5716223|1080x1920|10s
+screen1.mp4|stock market screen candlestick|pexels35606045|1080x1920|17s
+screen2.mp4|stock market screen candlestick|pexels8480284|1080x1920|30s
+think1.mp4|man thinking window calm|pexels9902182|1080x2048|30s
+sunrise1.mp4|city sunrise morning|pexels35528967|1080x1920|24s
+walk1.mp4|person walking outdoor nature|pexels36141231|1080x1920|20s
+floor1.mp4|trading floor|pexels7579943|1080x2048|19s
+calm1.mp4|man meditating calm|pexels7117436|1080x2048|27s
