@@ -33,3 +33,14 @@ projects/**/poll/
 projects/**/submit_logs/
 projects/**/submit_logs2/
 projects/**/log*.txt
+
+# 项目根目录散落的原始素材/口播大文件 + 拉片临时产物（不进 git）
+/*.mov
+/*.mp4
+/*.png
+/*.wav
+/*.jpg
+_*_frames/
+_lapian_yt/
+保时捷轧空_交付包_*/
+保时捷轧空_交付包_*.zip

@@ -14,10 +14,18 @@ import { ParticleShots } from "./mindset/ParticleShots";
 import { FloatCardDemo } from "./mindset/FloatCardDemo";
 import { AppleStyle } from "./mindset/AppleStyle";
 import { RiskFull } from "./risk/RiskFull";
+import { SoybeanOverlay } from "./soybean/SoybeanOverlay";
+import { OptionFull } from "./option/OptionFull";
+import { PorscheReel } from "./porsche/PorscheReel";
+import { PorscheTalk } from "./porsche/PorscheTalk";
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition id="PorscheTalk" component={PorscheTalk} durationInFrames={10169} fps={50} width={1920} height={1080} />
+      <Composition id="PorscheReel" component={PorscheReel} durationInFrames={1830} fps={30} width={1920} height={1080} />
+      <Composition id="OptionFull" component={OptionFull} durationInFrames={4768} fps={30} width={1080} height={1920} />
+      <Composition id="SoybeanOverlay" component={SoybeanOverlay} durationInFrames={444} fps={30} width={1920} height={1080} />
       <Composition id="RiskFull" component={RiskFull} durationInFrames={4207} fps={30} width={1080} height={1920} />
       <Composition id="AppleStyle" component={AppleStyle} durationInFrames={180} fps={30} width={1080} height={1920} />
       <Composition id="FloatCardDemo" component={FloatCardDemo} durationInFrames={180} fps={30} width={1080} height={1920} />
